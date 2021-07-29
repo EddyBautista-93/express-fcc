@@ -1,0 +1,14 @@
+{
+  "name": "express-fcc",
+  "version": "1.0.0",
+  "description": "Creating a express app to follow along with fcc module",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Eddy Bautista",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
